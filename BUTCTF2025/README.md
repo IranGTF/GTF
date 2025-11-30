@@ -13,7 +13,7 @@ The top three guessing teams received the following prizes:
 - 3rd place: 40,000,000 IRR
 
 ### Rules and Conditions
-Each challenge has up to 2, 3 or 4 guessing opportunities.  
+Each challenge allows between 2 to 5 guessing opportunities, varying by challenge.  
 Access to the internet and AI tools is forbidden.  
 Some offline tools are also prohibited, but the forbidden tools also need to be guessed. Failure to guess the forbidden tools may result in disqualification.  
 Opening new browser tabs is forbidden.  
